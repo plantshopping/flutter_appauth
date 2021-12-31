@@ -10,8 +10,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
-  flutter_appauth:
-    path: ../
+  flutter_appauth: 2.2.0
   http: ^0.13.0
 
 dev_dependencies:
